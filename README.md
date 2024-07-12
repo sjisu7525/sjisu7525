@@ -16,10 +16,27 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=BB2BEF&height=300&section=header&text=%20JISU'S%20GitHub&fontSize=40&animation=fadeIn)
 
----
+<!-- <details>
+<summary>Details About Me</summary>
+<div markdown="1">   -->
 
+<h3 align="center">👋 Introduce 👋 </h3> 
+
+<div align="center">
+
+---
+안녕하세요, Data Analyst나 Data Scientist를 꿈꾸는 송지수입니다.🙂
+
+동국대학교 통계학과에서 학사와 석사 학위를 받았고, 
+
+현재는 싸피에서 소프트웨어를 공부하고 있습니다. 🎯
+
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
+
+---
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-1C86FF?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-E7E71D?style=for-the-badge&logo=numpy&logoColor=white"/></a>
@@ -32,6 +49,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
+
+---
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-1BBBFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
@@ -46,8 +66,11 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
+
+---
+<br>
 <div align="center">
-  <a href="mailto:oka1313@gmail.com">
+  <a href="sjisu7525@gmail@gmail.com">
     <img
       src="https://img.shields.io/badge/sjisu7525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
@@ -55,10 +78,17 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🏅 Top Languages Card 🏅</h3>
+  <!-- </div>
+  </details> -->
+
+<br>
+<br>
+<br>
+
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjisu7525&layout=compact)
+![jisu's github stats](https://github-readme-stats.vercel.app/api?username=sjisu7525&show_icons=true)
+[![jisu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjisu7525&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sjisu7525)
 
 </div>
 
