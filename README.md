@@ -36,7 +36,7 @@
 
 ## 💝 Projects
 |**프로젝트명**|**조직**|**역할**|**기간**|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 
 <br>
 
@@ -53,9 +53,9 @@
 
 ## 💻 Skills
 | **구분** | **기술 및 도구**|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:
 | 백엔드 | Java, Spring Boot, **FastAPI**
-| ORM 및 쿼리 |	
+| ORM 및 쿼리 |	...
 | 데이터베이스 |	MySQL, MariaDB, MongoDB
 | DevOps | AWS, GitHub Actions (CI/CD), Docker
 | 프론트엔드 | Vue.js, React.js
