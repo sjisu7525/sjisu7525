@@ -1,94 +1,53 @@
+# 👋 Jisu Song 
+
+## 🎓 Education
+- (18.03 ~ 22.02) 동국대학교 통계학과 학사 
+	- 전공 평점: 4.05/4.5
+	- 전체 평점: 3.98/4.5
+- (22.03 ~ 24.02) 동국대학교 통계학과 석사
+	- 전공 평점: 4.42/4.5
+   
+
+## 🏃‍♂️ Experiences
+- (25.07 ~ 25.12) [SKALA 2기](https://skala.co.kr/) (SK AX AI Leaders Academy) | AI 서비스 개발자 교육 과정 
+- (24.07 ~ 25.07) [SSAFY 12기](https://ssafy.com/) (삼성청년SW아카데미) | 개발자 교육 과정
 
 
-<!--
-**sjisu7525/sjisu7525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📑 Paper
+- (23.03 ~ 23.12) *[주기성을 가진 시계열 자료에서
+푸리에 변환과 오토인코더 기법을 이용한
+패턴형 이상 탐지](https://dcol.dongguk.edu/public_resource/pdf/000000087972_20250923102926.pdf)* | 데이터 마이닝 연구실
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=venom&color=BB2BEF&height=300&section=header&text=%20JISU'S%20GitHub&fontSize=40&animation=fadeIn)
+## 🏆 Awards & Achievements
+|**날짜**|**대회명**|**수상**|**주최**|**주제**|
+|:--:|:--:|:--:|:--:|:--:|
+|25.06|삼성청년SW아카데미 전시발표회|3위(165개팅 중)|삼성전자주식회사|[온라인 리뷰 마이닝을 활용한 제품 순환성 강화 방안 연구](https://github.com/zi0-hand/sgdlab-product-circularity-research)
+|25.05|삼성청년SW아카데미 자율 프로젝트|우수상|삼성전자주식회사|[온라인 리뷰 마이닝을 활용한 제품 순환성 강화 방안 연구](https://github.com/zi0-hand/sgdlab-product-circularity-research)
+|25.04|삼성청년SW아카데미 자율 프로젝트|우수상|삼성전자주식회사|[젠트리피케이션 단계 구분 및 대처 우선순위 지표](https://github.com/zi0-hand/bigdata-seoul-competition)
+|25.02|삼성청년SW아카데미 자율 프로젝트|우수상|삼성전자주식회사|[소상공인 경영 위기 결정 요인 분석](https://github.com/zi0-hand/bigcontest-competition)
+|24.07|2024 통계 데이터 활용 대회_보고| - |통계청|[폭염 피해 지원 우선 지역 선정]()
+|22.02|학과 우등상|-|동국대학교 이과대학|학과 우등 졸업
 
-<!-- <details>
-<summary>Details About Me</summary>
-<div markdown="1">   -->
+## 💝 Projects
+|**프로젝트명**|**조직**|**역할**|**기간**|
 
-<h3 align="center">👋 Introduce 👋 </h3> 
 
-<div align="center">
+## 🛠️ Certification 
+- OPIC IH (2024.03)
+- 빅데이터 분석기사(2023.12)
+- SQLD (2021.12)
+- 컴퓨터활용능력 1급 (2021.08)
+- 사회조사분석사 2급 (2021.08)
+- ADsP (2021.04)
 
----
-안녕하세요, Data Analyst나 Data Scientist를 꿈꾸는 송지수입니다.🙂
 
-동국대학교 통계학과에서 학사와 석사 학위를 받았고, 
-
-현재는 싸피에서 소프트웨어를 공부하고 있습니다. 🎯
-
-<br>
-
-<h3 align="center">✨ Tech Stack ✨</h3>
-
----
-<br>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-1C86FF?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/numpy-E7E71D?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pandas-171399?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF951C?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/MySQL-1460B7?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-9D99A3?style=for-the-badge&logo=R&logoColor=white"/></a>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-
----
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-1BBBFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/Slack-26C326.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-
----
-<br>
-<div align="center">
-  <a href="mailto:sjisu7525@gmail.com">
-    <img
-      src="https://img.shields.io/badge/sjisu7525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-<br>
-
-  <!-- </div>
-  </details> -->
-
-<br>
-<br>
-<br>
-
-<div align="center">
-
-![jisu's github stats](https://github-readme-stats.vercel.app/api?username=sjisu7525&show_icons=true)
-[![jisu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjisu7525&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sjisu7525)
-
-</div>
-
+## 💻 Skills
+구분 | 기술 및 도구
+백엔드 | Java, Spring Boot, **FastAPI**
+ORM 및 쿼리 |	
+데이터베이스 |	MySQL, MariaDB, MongoDB
+DevOps | AWS, GitHub Actions (CI/CD), Docker
+프론트엔드 | Vue.js, React.js
+AI & DATA | Scikit-learn, AutoML, TensorFlow, PyTorch, LangChain, LangGraph, RAG (Retrieval-Augmented Generation)
+기타 |	PowerBI, GA4(Ggoogle analytics 4)
