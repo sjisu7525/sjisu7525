@@ -52,12 +52,13 @@
 <br>
 
 ## 💻 Skills
-| **구분** | **기술 및 도구**|
-|:--:|:--:|:
-| 백엔드 | Java, Spring Boot, **FastAPI**
-| ORM 및 쿼리 |	...
-| 데이터베이스 |	MySQL, MariaDB, MongoDB
-| DevOps | AWS, GitHub Actions (CI/CD), Docker
-| 프론트엔드 | Vue.js, React.js
-| AI & DATA | Scikit-learn, AutoML, TensorFlow, PyTorch, LangChain, LangGraph, RAG (Retrieval-Augmented Generation)
-| 기타 |	PowerBI, GA4(Ggoogle analytics 4)
+| **구분** | **기술 및 도구** |
+|:--:|:--:|
+| 백엔드 | Java, Spring Boot, **FastAPI** |
+| 쿼리 및 데이터 처리 | SQL (MySQL/MariaDB), PyMongo |
+| 데이터베이스 | MySQL, MariaDB, MongoDB |
+| DevOps | AWS, GitHub Actions (CI/CD), Docker |
+| 프론트엔드 | Vue.js, React.js |
+| AI & DATA | Scikit-learn, AutoML, TensorFlow, PyTorch, LangChain, LangGraph, RAG (Retrieval-Augmented Generation) |
+| 기타 | PowerBI, GA4 (Google Analytics 4) |
+
